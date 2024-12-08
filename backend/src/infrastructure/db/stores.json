@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "name": "Fresh Farm Grocery",
+    "type": "grocery",
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "address": "123 Market St, San Francisco, CA"
+  },
+  {
+    "id": "2",
+    "name": "Tech Haven Electronics",
+    "type": "electronics",
+    "lat": 37.7758,
+    "lng": -122.4189,
+    "address": "456 Post St, San Francisco, CA"
+  },
+  {
+    "id": "3",
+    "name": "Organic Harvest",
+    "type": "grocery",
+    "lat": 37.7765,
+    "lng": -122.4202,
+    "address": "789 Howard St, San Francisco, CA"
+  },
+  {
+    "id": "4",
+    "name": "Gadgets Galore",
+    "type": "electronics",
+    "lat": 37.7735,
+    "lng": -122.4168,
+    "address": "987 Mission St, San Francisco, CA"
+  }
+]
